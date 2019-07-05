@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bazel"
+    }
+  },
+  "defaultProject": "bazel",
+  "cli": {
+    "packageManager": "yarn"
+  }
 }
